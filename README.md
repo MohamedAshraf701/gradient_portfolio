@@ -6,8 +6,7 @@ Welcome to the **Gradient Portfolio** project! 🎨 This portfolio is a beautifu
 
 Check out the live version of the portfolio: [gradient-portfolio.ashraf.digital](https://gradient-portfolio.ashraf.digital/)
 
-<img width="1620" alt="image" src="https://github.com/user-attachments/assets/8a9fe204-f1f2-4b6b-89f7-298c165c70d1">
-
+<img width="1620" alt="image" src="https://github.com/user-attachments/assets/5bc556e6-90cb-4a80-ba2d-e1647ca18c98">
 
 ---
 
@@ -115,5 +114,5 @@ Thanks to all contributors who have helped make this project better!
 For any inquiries or suggestions:
 
 - **Website**: [ashraf.digital](https://ashraf.digital)
-- **Email**: [YourEmail@example.com](mailto:ashrafchauhan567@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/MohamedAshraf701)
+- **Email**: [ashrafchauhan567@gmail.com](mailto:ashrafchauhan567@gmail.com)
+- **GitHub**: [MohamedAshraf701](https://github.com/MohamedAshraf701)
