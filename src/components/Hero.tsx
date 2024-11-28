@@ -41,7 +41,7 @@ const Hero = () => {
           variants={scaleIn}
           className="text-5xl md:text-7xl font-bold text-white mb-6"
         >
-          John Doe
+          Mohamed Ashraf
         </motion.h1>
         <motion.h2 
           variants={fadeInUp}
@@ -61,9 +61,9 @@ const Hero = () => {
           className="flex justify-center space-x-6"
         >
           {[
-            { icon: Github, href: 'https://github.com' },
-            { icon: Linkedin, href: 'https://linkedin.com' },
-            { icon: Mail, href: 'mailto:contact@example.com' }
+            { icon: Github, href: 'https://github.com/MohamedAshraf701' },
+            { icon: Linkedin, href: 'https://www.linkedin.com/in/ashraf-chauhan-39bb5a230' },
+            { icon: Mail, href: 'mailto:ashrafchauhan567@gmail.com' }
           ].map((item, index) => (
             <motion.a
               key={index}
@@ -80,7 +80,7 @@ const Hero = () => {
       </motion.div>
 
       <motion.div
-        className="absolute bottom-10 left-1/2 transform -translate-x-1/2"
+        className="absolute bottom-10  transform -translate-x-1/2"
         animate={{ y: [0, 10, 0] }}
         transition={{ repeat: Infinity, duration: 2 }}
       >

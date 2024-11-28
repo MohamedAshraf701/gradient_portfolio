@@ -13,16 +13,16 @@ const Footer = () => {
               Feel free to reach out!
             </p>
             <div className="flex space-x-6">
-              <a href="https://github.com" className="text-white hover:text-blue-400 transition-colors">
+              <a href="https://github.com/MohamedAshraf701" className="text-white hover:text-blue-400 transition-colors">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com" className="text-white hover:text-blue-400 transition-colors">
+              <a href="https://www.linkedin.com/in/ashraf-chauhan-39bb5a230" className="text-white hover:text-blue-400 transition-colors">
                 <Linkedin size={24} />
               </a>
-              <a href="https://twitter.com" className="text-white hover:text-blue-400 transition-colors">
+              <a href="https://twitter.com/ashrafchauhan67" className="text-white hover:text-blue-400 transition-colors">
                 <Twitter size={24} />
               </a>
-              <a href="mailto:contact@example.com" className="text-white hover:text-blue-400 transition-colors">
+              <a href="mailto:ashrafchauhan567@gmail.com" className="text-white hover:text-blue-400 transition-colors">
                 <Mail size={24} />
               </a>
             </div>
@@ -41,7 +41,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 pt-8">
           <p className="text-center text-gray-500">
-            © {new Date().getFullYear()} John Doe. All rights reserved.
+            © {new Date().getFullYear()} Mohamed Ashraf. All rights reserved.
           </p>
         </div>
       </div>
