@@ -6,6 +6,9 @@ Welcome to the **Gradient Portfolio** project! 🎨 This portfolio is a beautifu
 
 Check out the live version of the portfolio: [gradient-portfolio.ashraf.digital](https://gradient-portfolio.ashraf.digital/)
 
+<img width="1620" alt="image" src="https://github.com/user-attachments/assets/8a9fe204-f1f2-4b6b-89f7-298c165c70d1">
+
+
 ---
 
 ## 🚀 Features
